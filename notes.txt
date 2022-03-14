@@ -1,0 +1,89 @@
+** Everything in Python is Object 
+** Every object contains set of methods ***
+
+
+
+number
+------
+number can be integer or decimal or hexa or octal.
+
+aval = 10
+bval = 3.4.3
+
+
+
+string
+--------
+string is defined in single or double or triple quotes.
+
+aname = 'python programming'
+bname = "java programming"
+cname = """unix shell"""
+
+
+
+list
+------
+list contains set of elements.
+Elements can be set of numbers or strings or any combination.
+list elements are defined in []
+
+alist  = [10,20,30]
+blist = ["python","java"],"c"]
+clist = [20,30,"java",43.8]
+
+
+
+
+tuple
+---
+tuple contains set of elements.
+Elements can be set of numbers or strings or any combination.
+tuple elments are defined in ().
+
+atup = (4,2,3)
+btup = ("java","oracle",45.3)
+
+
+
+dictionary
+---------------
+dictionary contains elements in the keys:values.
+Indexing is not allowed in dictionary.
+
+
+syntax :     object = {key:value, key:value ...}
+example:       book = {"chap1":10 ,"chap2":20}
+
+
+
+
+
+
+
+
+set
+-------
+
+set is unordered collection of unique values of same type.
+
+aset = {10,10,20,30,30,40}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
